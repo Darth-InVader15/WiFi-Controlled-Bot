@@ -42,4 +42,4 @@ To control the car/bot:
 
 Please ensure that you have set up the hardware components correctly and uploaded the `code.ino` file to the ESP 8266 using the Arduino IDE.
 In case you are having trouble selecting the ESP module in the Arduino IDE, here's a link:
-[StackOverflow](https://stackoverflow.com/questions/50080260/arduino-ide-cant-find-esp8266wifi-h-file){:target="_blank"}
+[StackOverflow](https://stackoverflow.com/questions/50080260/arduino-ide-cant-find-esp8266wifi-h-file)
