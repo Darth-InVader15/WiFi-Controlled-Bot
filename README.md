@@ -1,4 +1,4 @@
-# 4-Wheeled Bot Project
+# WiFi controlled Bot
 
 ![Car/Bot Image](resources/frontLeft.jpg)
 
